@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rpt"
+version = "1.0.0"
+description = "Relativistic Psychophysical Time (RPT)"
+requires-python = ">=3.9"
+dependencies = ["numpy", "pandas", "matplotlib"]
+readme = "README.md"
+license = {text = "MIT"}

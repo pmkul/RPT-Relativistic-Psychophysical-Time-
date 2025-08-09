@@ -1,0 +1,19 @@
+
+cff-version: 1.2.0
+message: If you use RPT in your work, please cite this repository.
+title: RPT: Relativistic Psychophysical Time
+authors:
+  - family-names: YOUR-FAMILY-NAME
+    given-names: YOUR-GIVEN-NAMES
+version: 1.0.0
+doi: 10.0000/placeholder-doi
+date-released: 2025-08-09
+license: MIT
+preferred-citation:
+  type: article
+  title: RPT: Relativistic Psychophysical Time
+  authors:
+    - family-names: YOUR-FAMILY-NAME
+      given-names: YOUR-GIVEN-NAMES
+  year: 2025
+  journal: Preprint / Note
