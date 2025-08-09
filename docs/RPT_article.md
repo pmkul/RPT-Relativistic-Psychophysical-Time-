@@ -100,7 +100,5 @@ T_{k+1}=T_k+\Lambda(\mathbf{z}_k)\,\Delta\tau_k,\quad
 - Einstein (1916/1918). Die Grundlage der allgemeinen Relativitätstheorie.  
 - （時間知覚レビュー）Eagleman D. (2008) Human time perception… / Wittmann M. (2013) The inner experience of time… など
 
----
-
-*作者: あなた（構想） × GPT-5 Thinking（整備・実装）*  
+---  
 *連絡: 公開後の改稿は随時。引用・再配布はリンク明記で可。*
